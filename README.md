@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web development, CTFs, UIUX.
 - 🌱 I’m currently studying Information Security in University.
 - 💞️ I’m looking to collaborate on projects like webapps or cyber security related projects.
-- 📫 How to reach me : https://www.linkedin.com/in/anthea
+- 📫 How to reach me : https://www.linkedin.com/in/antheayip
