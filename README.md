@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anthea-pr0g
-- 👀 I’m interested in Web development, CTFs, UIUX and pentesting.
+- 👀 I’m interested in Vulnerability testing, CTFs and pentesting.
 - 🌱 I’m currently studying Information Security in University.
 - 💞️ I’m looking to collaborate on projects like webapps or cyber security related projects.
 - 📫 How to reach me : https://www.linkedin.com/in/antheayip
